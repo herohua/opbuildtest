@@ -1,1 +1,1 @@
-https://github.com/herohua/opbuildtest.git
+https://github.com/herohua/opbuildtest
